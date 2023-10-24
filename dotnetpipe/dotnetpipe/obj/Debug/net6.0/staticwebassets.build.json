@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZMIOFL3lL+sB9VgnNrZMqenFuPqRueNT2nVo2ff5KEc=",
+  "Source": "dotnetpipe",
+  "BasePath": "_content/dotnetpipe",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
